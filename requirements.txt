@@ -1,0 +1,35 @@
+# LangChain Core
+langchain
+langchain-core
+langchain-community
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Anthropic Integration
+langchain-anthropic
+
+# Google Gemini Integration
+langchain-google-genai
+google-generativeai
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Vector Stores
+faiss-cpu
+chromadb
+
+# Document Loaders & Tokenization
+pypdf
+tiktoken
+
+# Environment Variables
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
