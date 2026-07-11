@@ -16,7 +16,7 @@ google-generativeai
 
 # Hugging Face Integration
 langchain-huggingface
-transformers
+# transformers
 huggingface-hub
 
 # Vector Stores
@@ -33,3 +33,10 @@ python-dotenv
 # Machine Learning Utilities
 numpy
 scikit-learn
+
+
+# torch 
+# torchvision 
+# torchaudio
+
+accelerate
