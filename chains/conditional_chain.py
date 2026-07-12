@@ -59,3 +59,6 @@ result = chain.invoke({'feedback':'This is the worst smartphone'})
 print(result)
 
 chain.get_graph().print_ascii()
+
+
+# In this code the original feedback is not being sent to the branch and hence the context couldn't be captured -> to do so add another variable -> left coz am lazy
